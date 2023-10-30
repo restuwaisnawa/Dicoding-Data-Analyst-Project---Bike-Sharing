@@ -12,8 +12,8 @@ The "Dicoding Data Analyst Project - Bike Sharing" is a course completion projec
 ├── data
 │   ├── day.csv
 │   └── hour.csv
-├── notebook.ipynb
 ├── README.md
+├── notebook.ipynb
 └── requirements.txt
 ```
 
@@ -43,7 +43,7 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
    streamlit run dashboard.py
    ```
 ## Streamlit Cloud :
-Streamlit Cloud : [GoBike Dashboard]()
+Streamlit Cloud : [GoBike Dashboard](https://gobike-cloud-dashboard-restuwaisnawa.streamlit.app/)
 
 ## Streamlit Cloud Dashboard Screenshot
 ![alt text]()
