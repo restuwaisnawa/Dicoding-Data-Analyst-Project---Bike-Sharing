@@ -31,7 +31,7 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
 ## Run Streamlit Dashboard app
 1. Clone this repository
    ```
-   git clone https://github.com/maulanakavaldo/bike_sharing.git
+   git clone https://github.com/restuwaisnawa/Dicoding-Data-Analyst-Project---Bike-Sharing
    ```
 
 2. Move to dashboard directory
@@ -43,13 +43,13 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
    streamlit run dashboard.py
    ```
 ## Streamlit Cloud :
-Streamlit Cloud : [GoBike Dashboard](https://maulanakavaldo-dicoding-bikesharing.streamlit.app/)
+Streamlit Cloud : [GoBike Dashboard]()
 
-## Dashboard Screenshot
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/Screenshot%20(91).png?raw=true)
+## Streamlit Cloud Dashboard Screenshot
+![alt text]()
 
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/Screenshot%20(92).png?raw=true)
+![alt text]()
 
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/Screenshot%20(93).png?raw=true)
+![alt text]()
 
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/Screenshot%20(94).png?raw=true)
+![alt text]()
