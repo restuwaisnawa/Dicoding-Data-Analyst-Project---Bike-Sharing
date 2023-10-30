@@ -8,7 +8,7 @@ import streamlit as st
 sns.set(style='dark')
 
 #mengimport data
-all_data = pd.read_csv('main_data.csv')
+all_data = pd.read_csv('https://raw.githubusercontent.com/restuwaisnawa/Dicoding-Data-Analyst-Project---Bike-Sharing/main/dashboard/main_data.csv')
 
 datetime_columns = ['date']
 all_data.sort_values(by='date', inplace=True)
@@ -100,7 +100,7 @@ max_date = pd.to_datetime(all_data['date']).dt.date.max()
 min_date = pd.to_datetime(all_data['date']).dt.date.min()
 
 with st.sidebar:
-    st.image('rental_logo.png')
+    st.image('https://raw.githubusercontent.com/restuwaisnawa/Dicoding-Data-Analyst-Project---Bike-Sharing/main/dashboard/rental_logo.png')
 
     #input start_date dan end_date
     start_date, end_date = st.date_input(
