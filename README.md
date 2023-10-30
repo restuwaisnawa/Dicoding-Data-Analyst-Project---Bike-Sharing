@@ -5,6 +5,7 @@ The "Dicoding Data Analyst Project - Bike Sharing" is a course completion projec
 ## File Structures
 ```
 .
+├── cloud dashboard screenshots
 ├── dashboard
 │   ├── dashboard.py
 │   └── main_data.csv
@@ -46,10 +47,10 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
 Streamlit Cloud : [GoBike Dashboard](https://gobike-cloud-dashboard-restuwaisnawa.streamlit.app/)
 
 ## Streamlit Cloud Dashboard Screenshot
-![alt text]()
+![alt text](https://github.com/restuwaisnawa/Dicoding-Data-Analyst-Project---Bike-Sharing/blob/main/cloud%20dashboard%20screenshots/cloud_dashboard_screenshot_1.png)
 
-![alt text]()
+![alt text](https://github.com/restuwaisnawa/Dicoding-Data-Analyst-Project---Bike-Sharing/blob/main/cloud%20dashboard%20screenshots/cloud_dashboard_screenshot_2.png)
 
-![alt text]()
+![alt text](https://github.com/restuwaisnawa/Dicoding-Data-Analyst-Project---Bike-Sharing/blob/main/cloud%20dashboard%20screenshots/cloud_dashboard_screenshot_3.png)
 
-![alt text]()
+![alt text](https://github.com/restuwaisnawa/Dicoding-Data-Analyst-Project---Bike-Sharing/blob/main/cloud%20dashboard%20screenshots/cloud_dashboard_screenshot_4.png)
