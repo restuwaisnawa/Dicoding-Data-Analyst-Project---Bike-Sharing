@@ -2,7 +2,7 @@
 # Dicoding Data Analyst Project - Bike Sharing
 The "Dicoding Data Analyst Project - Bike Sharing" is a course completion project aimed at analyzing bike sharing dataset using Python. It seeks to provide insights for optimizing bike-sharing services and underscores the value of data analysis in improving operational efficiency and customer experience while inspiring others to explore this field.
 
-## Folder Structures
+## File Structures
 ```
 .
 ├── dashboard
