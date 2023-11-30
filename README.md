@@ -54,3 +54,6 @@ Streamlit Cloud : [GoBike Dashboard](https://gobike-cloud-dashboard-restuwaisnaw
 ![alt text](https://github.com/restuwaisnawa/Dicoding-Data-Analyst-Project---Bike-Sharing/blob/main/cloud%20dashboard%20screenshots/cloud_dashboard_screenshot_3.png)
 
 ![alt text](https://github.com/restuwaisnawa/Dicoding-Data-Analyst-Project---Bike-Sharing/blob/main/cloud%20dashboard%20screenshots/cloud_dashboard_screenshot_4.png)
+
+## Submission Grade
+![alt text](https://github.com/restuwaisnawa/Dicoding-Data-Analyst-Project---Bike-Sharing/blob/main/cloud%20dashboard%20screenshots/submission%20grade.png)
